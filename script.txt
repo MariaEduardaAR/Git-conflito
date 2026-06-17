@@ -1,0 +1,2 @@
+Linha 1: Código base
+Linha 2: Texto original
