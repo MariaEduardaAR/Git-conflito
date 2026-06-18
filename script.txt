@@ -1,2 +1,6 @@
 Linha 1: Código base
+<<<<<<< HEAD
 Linha 2: alterado por Beatriz
+=======
+Linha 2: texto original
+>>>>>>> b0a2d0719e1e2667cf7ef27f8d1754c8feaf6b31
