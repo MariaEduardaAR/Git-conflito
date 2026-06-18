@@ -1,2 +1,2 @@
 Linha 1: Código base
-Linha 2: Alterado por eduarda
+Linha 2: texto original
